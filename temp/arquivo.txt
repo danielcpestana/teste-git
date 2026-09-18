@@ -1,0 +1,26 @@
+logs do projeto
+
+
+commit efd14586223f550f977b3fc438a36c4dcde13f41 (HEAD -> main, origin/main)
+Author: Daniel da Cunha Pestana <daniel.pestanabo2@hotmail.com>
+Date:   Fri Sep 18 14:13:03 2026 -0300
+
+    Retirando paragráfo
+
+commit 9ec584e15df5332806a4fad4abae13d7205a43d6
+Author: Daniel da Cunha Pestana <daniel.pestanabo2@hotmail.com>
+Date:   Fri Sep 18 14:06:25 2026 -0300
+
+:
+ *  Histórico restaurado 
+
+PS C:\Users\Daniel\Documents\Estudos 2026\GIT E GITHUB> git log
+commit efd14586223f550f977b3fc438a36c4dcde13f41 (HEAD -> main, origin/main)
+Author: Daniel da Cunha Pestana <daniel.pestanabo2@hotmail.com>
+Date:   Fri Sep 18 14:13:03 2026 -0300
+
+    Retirando paragráfo
+
+commit 9ec584e15df5332806a4fad4abae13d7205a43d6
+Author: Daniel da Cunha Pestana <daniel.pestanabo2@hotmail.com>
+Date:   Fri Sep 18 14:06:25 2026 -0300
